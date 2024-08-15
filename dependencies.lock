@@ -1,0 +1,23 @@
+dependencies:
+  LED:
+    component_hash: f0b813ad0cc12447bf0ad655b28e4c0726a3bd655b40360a770ef8b750e70e67
+    source:
+      git: https://github.com/Sorawit255/LED_Test.git
+      path: components/LED
+      type: git
+    version: 24c7d6c9f805e3cf2d27a57de2eca915bfabd757
+  SEVENSEGMENT:
+    component_hash: 39cdc2ffb33f30197ed057b7be72e46ff5692b696e1fcf400901980a9e9db04d
+    source:
+      git: https://github.com/Sorawit255/Seven_segment.git
+      path: components/SevenSegment
+      type: git
+    version: 35aa0262edcae4d996976917710df134f070a812
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.2
+manifest_hash: c970ae9f9c38f5385d6aa7d0655bc5fce35fa67e9e9279cf6524ca2b0bb1ce00
+target: esp32
+version: 1.0.0

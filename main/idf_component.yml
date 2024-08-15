@@ -1,0 +1,9 @@
+dependencies :
+  LED:
+    git: https://github.com/Sorawit255/LED_Test.git
+    path: components/LED
+  SEVENSEGMENT :
+    git: https://github.com/Sorawit255/Seven_segment.git
+    path: components/SevenSegment
+
+
